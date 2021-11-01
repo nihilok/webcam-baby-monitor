@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/baby-monitor-react/node_modules
+/baby-monitor-react/.pnp
+/baby-monitor-react/.pnp.js
+
+# testing
+/baby-monitor-react/coverage
+
+# production
+/baby-monitor-react/build
+
+# misc
+/baby-monitor-react/.DS_Store
+/baby-monitor-react/.env.local
+/baby-monitor-react/.env.development.local
+/baby-monitor-react/.env.test.local
+/baby-monitor-react/.env.production.local
+
+/baby-monitor-react/npm-debug.log*
+/baby-monitor-react/yarn-debug.log*
+/baby-monitor-react/yarn-error.log*
